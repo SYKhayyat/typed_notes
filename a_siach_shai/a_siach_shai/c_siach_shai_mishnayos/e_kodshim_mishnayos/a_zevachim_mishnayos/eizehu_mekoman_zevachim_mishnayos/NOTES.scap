@@ -1,0 +1,910 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ScappleDocument ID="EB668ED7-88AF-4368-BA36-1F5ADDF56F43" Version="1.2">
+   <Notes>
+      <Note ID="1" Position="339.1,526.8" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ושחט את החטאת במקום העולה</String>
+         <ConnectedNoteIDs>2, 6</ConnectedNoteIDs>
+      </Note>
+      <Note ID="2" Position="375.8,619.8" FontSize="12" Width="109.766">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>שחיטת חטאת בצפון</String>
+         <ConnectedNoteIDs>1</ConnectedNoteIDs>
+      </Note>
+      <Note ID="3" Position="265.7,530.0" FontSize="12" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ולקח הכהן</String>
+         <ConnectedNoteIDs>4-6</ConnectedNoteIDs>
+      </Note>
+      <Note ID="4" Position="273.5,618.2" FontSize="12" Width="102.734">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>קבלת חטאת בצפון</String>
+         <ConnectedNoteIDs>3</ConnectedNoteIDs>
+      </Note>
+      <Note ID="5" Position="147.7,620.6" FontSize="12" Width="110.547">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>מקבל בצפון (לו יקח)</String>
+         <ConnectedNoteIDs>3, 30</ConnectedNoteIDs>
+      </Note>
+      <Note ID="6" Position="139.2,485.4" FontSize="12" Width="43.3594">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>למצוה</String>
+         <ConnectedNoteIDs>1, 3, 14</ConnectedNoteIDs>
+      </Note>
+      <Note ID="7" Position="483.1,265.8" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ושחט אותו במקום אשר ישחט את העולה </String>
+         <ConnectedNoteIDs>10, 13</ConnectedNoteIDs>
+      </Note>
+      <Note ID="8" Position="299.7,256.1" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>במקום אשר תשחט העולה תשחט החטאת </String>
+         <ConnectedNoteIDs>11, 13</ConnectedNoteIDs>
+      </Note>
+      <Note ID="9" Position="113.3,257.8" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ושחט את החטאת במקום העולה </String>
+         <ConnectedNoteIDs>12</ConnectedNoteIDs>
+      </Note>
+      <Note ID="10" Position="562.8,324.6" FontSize="12" Width="55.8594">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>לכתחילה</String>
+         <ConnectedNoteIDs>7</ConnectedNoteIDs>
+      </Note>
+      <Note ID="11" Position="418.0,311.8" FontSize="12" Width="48.8281">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>בדיעבד</String>
+         <ConnectedNoteIDs>8</ConnectedNoteIDs>
+      </Note>
+      <Note ID="12" Position="192.8,319.6" FontSize="12" Width="70.7031">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>שאר חטאות</String>
+         <ConnectedNoteIDs>9</ConnectedNoteIDs>
+      </Note>
+      <Note ID="13" Position="514.6,216.6" FontSize="12" Width="63.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>שעיר נשיא</String>
+         <ConnectedNoteIDs>7-8</ConnectedNoteIDs>
+      </Note>
+      <Note ID="14" Position="392.3,477.7" FontSize="12" Width="37.1094">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>לעכב</String>
+         <ConnectedNoteIDs>6, 15</ConnectedNoteIDs>
+      </Note>
+      <Note ID="15" Position="531.3,526.9" FontSize="12" Width="105.078">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>כתיב בכבש ובשעיר</String>
+         <ConnectedNoteIDs>14, 16-17</ConnectedNoteIDs>
+      </Note>
+      <Note ID="16" Position="525.1,589.4" FontSize="12" Width="140.234">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>מה כתיב - הכל? צריך לעיין</String>
+         <ConnectedNoteIDs>15</ConnectedNoteIDs>
+      </Note>
+      <Note ID="17" Position="668.0,582.3" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>למה צריך פסוקים שבשעיר נשיא?</String>
+         <ConnectedNoteIDs>15</ConnectedNoteIDs>
+      </Note>
+      <Note ID="18" Position="999.5,244.3" FontSize="12" Width="33.9844">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>אותו</String>
+         <ConnectedNoteIDs>19, 21, 23-25</ConnectedNoteIDs>
+      </Note>
+      <Note ID="19" Position="1132.0,291.3" FontSize="12" Width="99.6094">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ממעט שעיר נחשון</String>
+         <ConnectedNoteIDs>18, 20</ConnectedNoteIDs>
+      </Note>
+      <Note ID="20" Position="1176.5,341.3" FontSize="12" Width="51.1719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>אין הו”א</String>
+         <ConnectedNoteIDs>19</ConnectedNoteIDs>
+      </Note>
+      <Note ID="21" Position="1040.1,303.2" FontSize="12" Width="85.5469">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>אין שוחט בצפון</String>
+         <ConnectedNoteIDs>18, 22</ConnectedNoteIDs>
+      </Note>
+      <Note ID="22" Position="1006.3,343.0" FontSize="12" Width="143.359">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>נלמד מ”ושחט אותו על ירך.”</String>
+         <ConnectedNoteIDs>21, 28</ConnectedNoteIDs>
+      </Note>
+      <Note ID="23" Position="1096.9,220.0" FontSize="12" Width="74.6094">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>איזה “אותו”?</String>
+         <ConnectedNoteIDs>18</ConnectedNoteIDs>
+      </Note>
+      <Note ID="24" Position="961.8,394.8" FontSize="12" Width="88.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>אין בן עוף בצפון</String>
+         <ConnectedNoteIDs>18, 27</ConnectedNoteIDs>
+      </Note>
+      <Note ID="25" Position="903.5,461.1" FontSize="12" Width="80.8594">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>אין פסח בצפון</String>
+         <ConnectedNoteIDs>18, 26</ConnectedNoteIDs>
+      </Note>
+      <Note ID="26" Position="929.4,526.6" FontSize="12" Width="51.1719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>אין הו”א</String>
+         <ConnectedNoteIDs>25</ConnectedNoteIDs>
+      </Note>
+      <Note ID="27" Position="1011.9,440.9" FontSize="12" Width="51.1719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>אין הו”א</String>
+         <ConnectedNoteIDs>24</ConnectedNoteIDs>
+      </Note>
+      <Note ID="28" Position="1090.4,450.6" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>אין שוחט בצפון, אבל מקבל בצפון</String>
+         <ConnectedNoteIDs>22, 29</ConnectedNoteIDs>
+      </Note>
+      <Note ID="29" Position="1383.3,463.5" FontSize="12" Width="46.4844">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>מסקנא</String>
+         <ConnectedNoteIDs>28</ConnectedNoteIDs>
+      </Note>
+      <Note ID="30" Position="115.3,563.4" FontSize="12" Width="131.641">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>מסקנת גמ’ לומד מ”אותו”</String>
+         <ConnectedNoteIDs>5</ConnectedNoteIDs>
+      </Note>
+      <Note ID="31" Position="275.6,367.4" FontSize="12" Width="35.5469">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>עולה</String>
+         <ConnectedNoteIDs>32-33</ConnectedNoteIDs>
+      </Note>
+      <Note ID="32" Position="318.2,403.5" FontSize="12" Width="43.3594">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>למצוה</String>
+         <ConnectedNoteIDs>31, 34</ConnectedNoteIDs>
+      </Note>
+      <Note ID="33" Position="183.3,383.9" FontSize="12" Width="37.1094">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>לעכב</String>
+         <ConnectedNoteIDs>31, 35-36</ConnectedNoteIDs>
+      </Note>
+      <Note ID="34" Position="379.4,454.0" FontSize="12" Width="179.297">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>כתיב בפירוש (מה המקור לקבלה?)</String>
+         <ConnectedNoteIDs>32</ConnectedNoteIDs>
+      </Note>
+      <Note ID="35" Position="173.0,445.4" FontSize="12" Width="125.493">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>קל וחומר מחטאת, שבאה מכוח עולה</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note ID="36" Position="127.1,447.5" FontSize="12" Width="43.3594">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>העולה</String>
+         <ConnectedNoteIDs>33</ConnectedNoteIDs>
+      </Note>
+      <Note ID="37" Position="344.0,1232.2" FontSize="12" Width="36.3281">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>אשם</String>
+         <ConnectedNoteIDs>38-39, 44</ConnectedNoteIDs>
+      </Note>
+      <Note ID="38" Position="405.1,1269.7" FontSize="12" Width="47.2656">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>שחיטה</String>
+         <ConnectedNoteIDs>37, 40</ConnectedNoteIDs>
+      </Note>
+      <Note ID="39" Position="310.5,1266.4" FontSize="12" Width="40.2344">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>קבלה</String>
+         <ConnectedNoteIDs>37, 41-42</ConnectedNoteIDs>
+      </Note>
+      <Note ID="40" Position="461.0,1312.8" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>במקום אשר ישחטו את העולה ישחטו את האשם</String>
+         <ConnectedNoteIDs>38</ConnectedNoteIDs>
+      </Note>
+      <Note ID="41" Position="340.7,1306.5" FontSize="12" Width="75.3906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ואת דמו יזרק</String>
+         <ConnectedNoteIDs>39</ConnectedNoteIDs>
+      </Note>
+      <Note ID="42" Position="295.4,1299.1" FontSize="12" Width="40.2344">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>מקבל</String>
+         <ConnectedNoteIDs>39, 43</ConnectedNoteIDs>
+      </Note>
+      <Note ID="43" Position="276.6,1343.0" FontSize="12" Width="51.1719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ואת דמו</String>
+         <ConnectedNoteIDs>42</ConnectedNoteIDs>
+      </Note>
+      <Note ID="44" Position="296.1,1190.2" FontSize="12" Width="46.4844">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>למצווה</String>
+         <ConnectedNoteIDs>37, 45</ConnectedNoteIDs>
+      </Note>
+      <Note ID="45" Position="242.8,1191.7" FontSize="12" Width="37.1094">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>לעכב</String>
+         <ConnectedNoteIDs>44, 46</ConnectedNoteIDs>
+      </Note>
+      <Note ID="46" Position="128.6,1234.0" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ושחט את הכבש במקום אשר ישחט את החטאת ואת העולה</String>
+         <ConnectedNoteIDs>45</ConnectedNoteIDs>
+      </Note>
+      <Note ID="51" Position="281.1,684.0" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>זאת תורת החטאת - במקום אשר תשחט העולה תשחט החטאת</String>
+         <ConnectedNoteIDs>52</ConnectedNoteIDs>
+      </Note>
+      <Note ID="52" Position="195.1,695.2" FontSize="12" Width="64.4531">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>נאמר סתם</String>
+         <ConnectedNoteIDs>51</ConnectedNoteIDs>
+      </Note>
+      <Note ID="53" Position="290.8,748.5" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>ושחט אותו במקום אשר ישחט את העולה</String>
+         <ConnectedNoteIDs>54</ConnectedNoteIDs>
+      </Note>
+      <Note ID="54" Position="149.1,747.9" FontSize="12" Width="105.078">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>נאמר בחטאת נשיא</String>
+         <ConnectedNoteIDs>53, 55</ConnectedNoteIDs>
+      </Note>
+      <Note ID="55" Position="304.1,797.5" FontSize="12" Width="132.422">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>וְלָקַ֨ח הַכֹּהֵ֜ן מִדַּ֤ם הַֽחַטָּאת֙ </String>
+         <ConnectedNoteIDs>54</ConnectedNoteIDs>
+      </Note>
+      <Note ID="56" Position="126.7,832.0" FontSize="12" Width="110.547">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>חטאת סתם בני אדם</String>
+         <ConnectedNoteIDs>57-58</ConnectedNoteIDs>
+      </Note>
+      <Note ID="57" Position="292.6,833.9" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String> וְשָׁחַט֙ אֶת־הַ֣חַטָּ֔את בִּמְק֖וֹם הָעֹלָֽה</String>
+         <ConnectedNoteIDs>56</ConnectedNoteIDs>
+      </Note>
+      <Note ID="58" Position="284.1,879.9" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String> וְשָׁחַ֤ט אֹתָהּ֙ לְחַטָּ֔את בִּמְק֕וֹם אֲשֶׁ֥ר יִשְׁחַ֖ט אֶת־הָעֹלָֽה׃</String>
+         <ConnectedNoteIDs>56, 59</ConnectedNoteIDs>
+      </Note>
+      <Note ID="59" Position="517.9,888.4" FontSize="12" Width="33.9844">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>כבש</String>
+         <ConnectedNoteIDs>58</ConnectedNoteIDs>
+      </Note>
+      <Note ID="61" Position="1919.0,306.2" FontSize="12" Width="75.3906">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>סוגיות לחזור:</String>
+         <ConnectedNoteIDs>62-63, 74-76</ConnectedNoteIDs>
+      </Note>
+      <Note ID="62" Position="1826.1,220.1" FontSize="12" Width="131.641">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>דבר הנלמד מדבר מלמד.</String>
+         <ConnectedNoteIDs>61, 105</ConnectedNoteIDs>
+      </Note>
+      <Note ID="63" Position="1833.4,241.0" FontSize="12" Width="58.9844">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>יסוד (נא.)</String>
+         <ConnectedNoteIDs>61</ConnectedNoteIDs>
+      </Note>
+      <Note ID="65" Position="560.3,987.5" FontSize="12" Width="48.8281">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>חיצונות</String>
+      </Note>
+      <Note ID="66" Position="563.4,1091.6" FontSize="12" Width="49.6094">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>פנימיות</String>
+      </Note>
+      <Note ID="67" Position="445.0,941.1" FontSize="12" Width="39.4531">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>דרומי</String>
+      </Note>
+      <Note ID="68" Position="244.1,941.1" FontSize="12" Width="68.627">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>מערבי</String>
+      </Note>
+      <Note ID="69" Position="328.8,987.5" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>שיטת המשנה - סובר שלומדים סתום מן המפורש, לומר שניתן בקרוב לו.</String>
+      </Note>
+      <Note ID="70" Position="156.4,987.5" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>שיטת רבי ישמעאל, שלומדים סתום מן המפורש, לומר שניתן במערבי.</String>
+      </Note>
+      <Note ID="71" Position="156.4,1091.6" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>שיטת המשנה, שלומדים שניתן בקרוב לו. תבאר למה זה נכון.</String>
+      </Note>
+      <Note ID="72" Position="328.8,1091.6" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>שיטת רבי שמעון, שניתן בקרוב לו, שכל מזבח בצפון או כל פתח בדרום.</String>
+      </Note>
+      <Note ID="74" Position="1570.6,259.8" FontSize="12" Width="298.578">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.98912 0.814084 1.0</Fill>
+            <Border Weight="1">0.894545 0.707759 0.715892</Border>
+         </Appearance>
+         <String>מהו קדשי קדשים (גמרא גבי שלמים, רש”י גבי עולה, מה שרש”י בדר”כ מפרש כעין זה לומר שהוא הכלל, ולא שהוא דבר בפני עצמו (גמ’ בקידושין גבי שליחות) נג: (עולה) - לא נאמר קדשי קדשים, ועדיין יודעים מהו, עיין ברש”י על המשנה בעולה.)</String>
+         <ConnectedNoteIDs>61</ConnectedNoteIDs>
+      </Note>
+      <Note ID="75" Position="1589.1,357.5" FontSize="12" Width="277.003">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.98912 0.814084 1.0</Fill>
+            <Border Weight="1">0.894545 0.707759 0.715892</Border>
+         </Appearance>
+         <Formatting>
+            <FormatRange Strikethrough="Yes">0,135</FormatRange>
+         </Formatting>
+         <String>תכתב הקדמה שמבאר מקום יסוד (מה יש לו יסוד, מה יש לו יסוד כשר, ולמה), ומבאר מקום מזבח (צפון או דרום, לפי השיטות), ומקום הכבש. נג: (יסוד)</String>
+         <ConnectedNoteIDs>61</ConnectedNoteIDs>
+      </Note>
+      <Note ID="76" Position="1805.3,421.0" FontSize="12" Width="116.684">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.98912 0.814084 1.0</Fill>
+            <Border Weight="1">0.894545 0.707759 0.715892</Border>
+         </Appearance>
+         <String>תבאר המקומות לענין אכילת קדשים</String>
+         <ConnectedNoteIDs>61</ConnectedNoteIDs>
+      </Note>
+      <Note ID="77" Position="1649.3,568.0" FontSize="12" Width="88.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>פתח אוהל מועד</String>
+      </Note>
+      <Note ID="78" Position="1662.8,589.4" FontSize="12" Width="38.6719">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>פתוח</String>
+      </Note>
+      <Note ID="79" Position="1578.3,589.4" FontSize="12" Width="33.2031">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>כשר</String>
+      </Note>
+      <Note ID="80" Position="1668.4,606.6" FontSize="12" Width="32.4219">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>נעול</String>
+      </Note>
+      <Note ID="81" Position="1576.3,606.6" FontSize="12" Width="35.5469">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>פסול</String>
+      </Note>
+      <Note ID="82" Position="1632.2,623.9" FontSize="12" Width="67.5781">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>מוגף (סגור)</String>
+      </Note>
+      <Note ID="83" Position="1576.3,623.9" FontSize="12" Width="35.5469">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>פסול</String>
+      </Note>
+      <Note ID="84" Position="1670.2,641.1" FontSize="12" Width="30.8594">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>וילון</String>
+      </Note>
+      <Note ID="85" Position="1578.3,641.1" FontSize="12" Width="33.2031">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>כשר</String>
+      </Note>
+      <Note ID="86" Position="1665.9,658.3" FontSize="12" Width="35.5469">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>גבוה</String>
+      </Note>
+      <Note ID="87" Position="1570.1,658.3" FontSize="12" Width="41.7969">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>שאלה</String>
+      </Note>
+      <Note ID="89" Position="1834.0,702.4" FontSize="12" Width="119.141">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>זריקת דם מעשר ופסח</String>
+         <ConnectedNoteIDs>90-92</ConnectedNoteIDs>
+      </Note>
+      <Note ID="90" Position="1986.5,752.7" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>מנין לכל הדמים שטעונים מתן דם ליסוד ת"ל ודם זבחיך ישפך נפקא ליה מדרבי דתניא רבי אומר (ויקרא ה, ט) והנשאר בדם ימצה שאין ת"ל בדם ומה ת"ל בדםלפי שלא למדנו אלא לניתנין מתן ד' שטעונין מתן דמים ליסוד שאר דמים מנין ת"ל והנשאר בדם ימצה שאין ת"ל בדם ומה ת"ל בדם לימד על כל הדמים שטעונין מתן דמים ליסוד מנין לניתנין בזריקה שנתנן בשפיכה יצא ת"ל ודם זבחיך ישפךסבר לה כר' עקיבא דאמר לא זריקה בכלל שפיכה ולא שפיכה בכלל זריקה</String>
+         <ConnectedNoteIDs>89</ConnectedNoteIDs>
+      </Note>
+      <Note ID="91" Position="1804.0,841.8" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>מַאן תָּנָא פֶּסַח בִּזְרִיקָה? אָמַר רַב חִסְדָּא: רַבִּי יוֹסֵי הַגְּלִילִי הִיא.דְּתַנְיָא, רַבִּי יוֹסֵי הַגְּלִילִי אוֹמֵר: ״אֶת דָּמָם תִּזְרוֹק עַל הַמִּזְבֵּחַ וְאֶת חֶלְבָּם תַּקְטִיר״ — ״דָּמוֹ״ לֹא נֶאֱמַר, אֶלָּא ״דָּמָם״. ״חֶלְבּוֹ״ לֹא נֶאֱמַר, אֶלָּא ״חֶלְבָּם״. לִמֵּד עַל בְּכוֹר וּמַעֲשֵׂר וּפֶסַח, שֶׁהֵן טְעוּנִין מַתַּן דָּמִים וְאֵימוּרִין לְגַבֵּי מִזְבֵּחַ. </String>
+         <ConnectedNoteIDs>89</ConnectedNoteIDs>
+      </Note>
+      <Note ID="92" Position="1575.5,747.4" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>מאן תנא אמר רב חסדא ר' יוסי הגלילי היא דתניא ר' יוסי הגלילי אומר חלבו לא נאמר אלא חלבם דמו לא נאמר אלא דמם לימד על בכור ומעשר ופסח שטעונין מתן דמים ואימורין לגבי מזבח</String>
+         <ConnectedNoteIDs>89, 93</ConnectedNoteIDs>
+      </Note>
+      <Note ID="93" Position="1570.1,882.6" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>כנגד היסוד מנא לן א"ר אליעזר אתיא זריקה זריקה מעולהדף נז.ועולה גופה מנלן דכתיב (ויקרא ד, ז) אל יסוד מזבח העולה למד על עולת חובה שטעונה יסודאי מה להלן שתי מתנות שהן ארבע אף כאן שתי מתנות שהן ארבעאמר אביי למה לי למכתב (ויקרא א, ה) סביב בעולה סביב בחטאת הוו שני כתובין הבאין כאחד וכל שני כתובין הבאין כאחד אין מלמדיןהניחא למ"ד אין מלמדין אלא למ"ד מלמדין מאי איכא למימר הוי אשם שלשה ושלשה ודאי אין מלמדין:</String>
+         <ConnectedNoteIDs>92</ConnectedNoteIDs>
+      </Note>
+      <Note ID="95" Position="1887.7,1164.8" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>בכור נאכל לשני ימים ולילה אחד</String>
+         <ConnectedNoteIDs>96-97</ConnectedNoteIDs>
+      </Note>
+      <Note ID="96" Position="1715.0,1231.3" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.743786 0.983612 0.629999</Fill>
+            <Border Weight="1">0.669413 0.885237 0.56701</Border>
+         </Appearance>
+         <String>ובשרם יהיה לך כחזה התנופה וכשוק התרומה - כמו חזה ושוק של שלמים שנאכל לשני ימים</String>
+         <ConnectedNoteIDs>95, 101</ConnectedNoteIDs>
+      </Note>
+      <Note ID="97" Position="1952.1,1247.4" FontSize="12" Width="143.359">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.743786 0.983612 0.629999</Fill>
+            <Border Weight="1">0.669413 0.885237 0.56701</Border>
+         </Appearance>
+         <String>נלמד משלמים קדשים קלים</String>
+         <ConnectedNoteIDs>95, 98</ConnectedNoteIDs>
+      </Note>
+      <Note ID="98" Position="1963.9,1288.2" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.97528 0.920302 0.624582</Fill>
+            <Border Weight="1">0.877745 0.828275 0.562127</Border>
+         </Appearance>
+         <String>נלמד ממתנה לכהן, כמו חטאת ואשם?</String>
+         <ConnectedNoteIDs>97, 99</ConnectedNoteIDs>
+      </Note>
+      <Note ID="99" Position="1985.4,1341.8" FontSize="12" Width="130.078">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.743786 0.983612 0.629999</Fill>
+            <Border Weight="1">0.669413 0.885237 0.56701</Border>
+         </Appearance>
+         <String>שלמים אין באים על חטא</String>
+         <ConnectedNoteIDs>98, 100</ConnectedNoteIDs>
+      </Note>
+      <Note ID="100" Position="1966.1,1381.5" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.97528 0.920302 0.624582</Fill>
+            <Border Weight="1">0.877745 0.828275 0.562127</Border>
+         </Appearance>
+         <String>נלמד מאינו נקרב נדבה, כמו חטאת ואשם?</String>
+         <ConnectedNoteIDs>99</ConnectedNoteIDs>
+      </Note>
+      <Note ID="101" Position="1805.1,1308.6" FontSize="12" Width="66.7969">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.97528 0.920302 0.624582</Fill>
+            <Border Weight="1">0.877745 0.828275 0.562127</Border>
+         </Appearance>
+         <String>אולי תודה?</String>
+         <ConnectedNoteIDs>96, 102, 104</ConnectedNoteIDs>
+      </Note>
+      <Note ID="102" Position="1785.8,1349.3" FontSize="12" Width="49.6094">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.743786 0.983612 0.629999</Fill>
+            <Border Weight="1">0.669413 0.885237 0.56701</Border>
+         </Appearance>
+         <String>לך יהיה</String>
+         <ConnectedNoteIDs>101, 103</ConnectedNoteIDs>
+      </Note>
+      <Note ID="103" Position="1788.0,1414.8" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>יש לדון אם זה מקיש לשלמים או שזה מוסיף על היקש לתודה. רשי אומר כשני.</String>
+         <ConnectedNoteIDs>102</ConnectedNoteIDs>
+      </Note>
+      <Note ID="104" Position="1570.1,1370.8" FontSize="12" Width="156.25">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.97528 0.920302 0.624582</Fill>
+            <Border Weight="1">0.877745 0.828275 0.562127</Border>
+         </Appearance>
+         <String>תודה לנמד משלמים בהיקש, ולא מלמד. (צריך לעיין ברש”י בזה) (הימנו ודבר אחר)</String>
+         <ConnectedNoteIDs>101</ConnectedNoteIDs>
+      </Note>
+      <Note ID="105" Position="1602.8,223.4" FontSize="12" Width="162.817">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Fill>0.98912 0.814084 1.0</Fill>
+            <Border Weight="1">0.894545 0.707759 0.715892</Border>
+         </Appearance>
+         <String>הימנו ודבר אחר (נז)</String>
+         <ConnectedNoteIDs>62</ConnectedNoteIDs>
+      </Note>
+      <Note ID="107" Position="1692.2,1494.2" FontSize="12" Width="78.5156">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>פסח עד חצות</String>
+         <ConnectedNoteIDs>108-109</ConnectedNoteIDs>
+      </Note>
+      <Note ID="108" Position="1841.4,1539.3" FontSize="12" Width="144.922">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>שיטת המשנה - ראיה מלשון</String>
+         <ConnectedNoteIDs>107</ConnectedNoteIDs>
+      </Note>
+      <Note ID="109" Position="1590.3,1546.8" FontSize="12" Width="141.797">
+         <Appearance>
+            <Alignment>Left</Alignment>
+            <Border Weight="0" Style="Rounded"/>
+         </Appearance>
+         <String>מקור - עיין בברכות, בעיקר.</String>
+         <ConnectedNoteIDs>107</ConnectedNoteIDs>
+      </Note>
+   </Notes>
+   <BackgroundShapes>
+      <Shape Height="150.976" ID="0" Sticky="Yes" Position="115.7,209.1" Width="730.854" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.743297 0.900298 0.994537</Fill>
+            <Border Weight="1">0.668971 0.810269 0.895079</Border>
+         </Appearance>
+      </Shape>
+      <Shape Height="185.889" ID="47" Sticky="Yes" Position="115.7,486.5" Width="730.854" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.743297 0.900298 0.994537</Fill>
+            <Border Weight="1">0.668971 0.810269 0.895079</Border>
+         </Appearance>
+      </Shape>
+      <Shape Height="349.613" ID="48" Sticky="Yes" Position="892.6,209.1" Width="548.331" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.743786 0.983612 0.629999</Fill>
+            <Border Weight="1">0.669413 0.885237 0.56701</Border>
+         </Appearance>
+      </Shape>
+      <Shape Height="133.058" ID="49" Sticky="Yes" Position="115.7,356.9" Width="730.854" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.743297 0.900298 0.994537</Fill>
+            <Border Weight="1">0.668971 0.810269 0.895079</Border>
+         </Appearance>
+      </Shape>
+      <Shape Height="195.732" ID="50" Sticky="Yes" Position="115.7,1186.7" Width="730.854" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.743297 0.900298 0.994537</Fill>
+            <Border Weight="1">0.668971 0.810269 0.895079</Border>
+         </Appearance>
+      </Shape>
+      <Shape Height="253.713" ID="60" Sticky="Yes" Position="115.7,673.1" Width="730.854" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.743297 0.900298 0.994537</Fill>
+            <Border Weight="1">0.668971 0.810269 0.895079</Border>
+         </Appearance>
+      </Shape>
+      <Shape Height="346.588" ID="64" Sticky="Yes" Position="1559.2,209.1" Width="594.463" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.98912 0.814084 1.0</Fill>
+            <Border Weight="1">0.894545 0.707759 0.715892</Border>
+         </Appearance>
+      </Shape>
+      <Shape Height="257.263" ID="73" Sticky="Yes" Position="115.7,928.4" Width="730.854" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.743297 0.900298 0.994537</Fill>
+            <Border Weight="1">0.668971 0.810269 0.895079</Border>
+         </Appearance>
+      </Shape>
+      <Shape Height="133.305" ID="88" Sticky="Yes" Position="1559.2,557.1" Width="594.463" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.98912 0.814084 1.0</Fill>
+            <Border Weight="1">0.894545 0.707759 0.715892</Border>
+         </Appearance>
+      </Shape>
+      <Shape Height="460.664" ID="94" Sticky="Yes" Position="1559.2,691.4" Width="594.463" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.98912 0.814084 1.0</Fill>
+            <Border Weight="1">0.894545 0.707759 0.715892</Border>
+         </Appearance>
+      </Shape>
+      <Shape Height="322.674" ID="106" Sticky="Yes" Position="1559.2,1153.8" Width="594.463" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.98912 0.814084 1.0</Fill>
+            <Border Weight="1">0.894545 0.707759 0.715892</Border>
+         </Appearance>
+      </Shape>
+      <Shape Height="93.7231" ID="110" Sticky="Yes" Position="1559.2,1477.6" Width="594.463" Faded="No" Shadow="No">
+         <Appearance>
+            <Fill>0.98912 0.814084 1.0</Fill>
+            <Border Weight="1">0.894545 0.707759 0.715892</Border>
+         </Appearance>
+      </Shape>
+   </BackgroundShapes>
+   <AutoFit>2-6, 10-16, 18-27, 29-34, 36-39, 41-45, 52, 54-56, 59, 61-63, 65-67, 77-87, 89, 97, 99, 101-102, 107-109</AutoFit>
+   <NoteStyles>
+      <Style AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectSticky="No" ID="0FE89F50-EFF6-4EC9-8BAA-05FAD669F6E0" Name="Red Text" AffectTextColor="Yes" AffectNoteBody="No">
+         <TextColor>0.985946 0.0 0.026947</TextColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectSticky="No" ID="171C1C58-A20E-4149-85A8-410CCFD48113" Name="Bubble (Red)" AffectTextColor="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.993942 0.786389 0.795438</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectSticky="No" ID="EA23F982-2464-442D-AF02-9D5C67C84E15" Name="Bubble (Pink)" AffectTextColor="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.894545 0.707759 0.715892</BorderColor>
+         <FillColor>0.98912 0.814084 1.0</FillColor>
+      </Style>
+      <Style AffectFontStyle="Yes" AffectSize="No" AffectFade="No" AffectAlignment="Yes" AffectSticky="No" ID="C06F32D3-262F-4B2E-A38B-FD7ED752CA97" Name="Title Text" AffectTextColor="No" AffectNoteBody="No">
+         <IsBold>Yes</IsBold>
+         <FontSize>28.0</FontSize>
+      </Style>
+      <Style AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectSticky="No" ID="07E3792C-87B7-4A8B-8729-0405AE891B1B" Name="Bubble (Blue)" AffectTextColor="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.668971 0.810269 0.895079</BorderColor>
+         <FillColor>0.743297 0.900298 0.994537</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectSticky="No" ID="B4C8576D-D4A7-4A4D-8A98-5C9988B048CE" Name="Bubble (Green)" AffectTextColor="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.669413 0.885237 0.56701</BorderColor>
+         <FillColor>0.743786 0.983612 0.629999</FillColor>
+      </Style>
+      <Style AffectFontStyle="No" AffectSize="No" AffectFade="No" AffectAlignment="No" AffectSticky="No" ID="F10C2D98-F911-47B4-9E18-603C5D6208AC" Name="Bubble (Yellow)" AffectTextColor="No" AffectNoteBody="Yes">
+         <BorderThickness>1</BorderThickness>
+         <BorderColor>0.877745 0.828275 0.562127</BorderColor>
+         <FillColor>0.97528 0.920302 0.624582</FillColor>
+      </Style>
+   </NoteStyles>
+   <UISettings>
+      <BackgroundColor>1.0 0.988373 0.949905</BackgroundColor>
+      <DefaultFont>Arial</DefaultFont>
+      <DefaultTextColor/>
+      <NoteXPadding>8.00</NoteXPadding>
+      <RightToLeft>Yes</RightToLeft>
+   </UISettings>
+   <PrintSettings TopMargin="12.000000" RightMargin="12.000000" Orientation="Portrait" VerticalPagination="Auto" VerticallyCentered="Yes" HorizontallyCentered="Yes" LeftMargin="12.000000" PagesAcross="1" ScaleFactor="1.000000" PagesDown="1" PaperType="na-letter" BottomMargin="12.000000" PaperSize="-1.000000,-1.000000" HorizontalPagination="Clip" Collates="Yes"/>
+</ScappleDocument>
